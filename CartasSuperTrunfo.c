@@ -46,7 +46,6 @@ scanf("%d",&pontosturisticos1);
 printf("\n\n");
 
 
-
 // leitura dos dados da Carta 2
 
 printf("Cadastrando a carta 2\n\n");
